@@ -51,7 +51,7 @@ module.exports = {
         activity: '항해99 프론트엔드 과정 수료',
       },
       {
-        date: '2021.10 ~',
+        date: '2021.09 ~',
         activity: '프론트엔드 개발자',
       },
     ],
