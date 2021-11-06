@@ -2,7 +2,7 @@
 emoji: 🔮
 title: useState 지연 초기 state(lazy state initialization)
 date: '2021-10-08 00:00:00'
-author: 줌코딩
+author: 장희성
 tags: react
 categories: 프론트엔드
 ---
