@@ -1,9 +1,9 @@
 ---
 emoji: ✏️
-title: 재귀함수 [파이썬]
+title: 재귀함수 [알고리즘]
 date: '2021-06-16 00:00:00'
 author: 장희성
-tags: 알고리즘
+tags: 재귀함수 recursion
 categories: 알고리즘
 ---
 

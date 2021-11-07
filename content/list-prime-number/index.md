@@ -1,9 +1,9 @@
 ---
 emoji: ✏️
-title: 소수 나열하기 [파이썬]
+title: 소수 나열하기 [알고리즘]
 date: '2021-06-14 00:00:00'
 author: 장희성
-tags: 알고리즘
+tags: 알고리즘 소수 나열
 categories: 알고리즘
 ---
 

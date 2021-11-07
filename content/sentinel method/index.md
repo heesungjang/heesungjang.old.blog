@@ -1,9 +1,9 @@
 ---
 emoji: ✏️
-title: 보초법 [파이썬]
+title: 보초법 [알고리즘]
 date: '2021-06-21 00:00:00'
 author: 장희성
-tags: 알고리즘
+tags: 알고리즘 보초법
 categories: 알고리즘
 ---
 
