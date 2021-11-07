@@ -3,7 +3,7 @@ emoji: ✏️
 title: Graphql은 REST API의 어떤점을 해결해주나?
 date: '2021-09-16 00:00:00'
 author: 장희성
-tags: react
+tags: graphql
 categories: 프론트엔드
 ---
 
