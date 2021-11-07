@@ -1,7 +1,7 @@
 ---
 emoji: ✏️
 title: jsx와 리액트 컴포넌트
-date: '2021-10-08 00:00:00'
+date: '2021-09-20 00:00:00'
 author: 장희성
 tags: react
 categories: 프론트엔드
