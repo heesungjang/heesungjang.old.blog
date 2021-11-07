@@ -56,7 +56,7 @@ export const signupUserDB = createAsyncThunk(
 
 ```
 
-**createAyncThunk**를 사용해서 회원가입 비동기 액션을 만들어줬다. 회원가입 페이지에서 아래와같이 해당 thunk를 dispath() 함수를 통해서 호출해주면 첫번째 파라미터로 선언한 액션 이름 에 **pending, fulfilled, rejected 의 상태에 대한 action 을 자동으로 생성해준다.**.
+**createAyncThunk**를 사용해서 회원가입 비동기 액션을 만들어줬다. 회원가입 페이지에서 아래와같이 해당 thunk를 dispath() 함수를 통해서 호출해주면 첫번째 파라미터로 선언한 액션 이름 에 **pending, fulfilled, rejected 의 상태에 대한 action 을 자동으로 생성해준다.**
 
 ```javascript
 
