@@ -1,6 +1,6 @@
 ---
 emoji: ✏️
-title: Linked List [자료구조]
+title: [자료구조] Linked List
 date: '2021-06-15 00:00:00'
 author: 장희성
 tags: 알고리즘 자료구조 링크드리스트 linked list
