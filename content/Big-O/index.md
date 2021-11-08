@@ -1,6 +1,6 @@
 ---
 emoji: ✏️
-title: Big O 표기법 [알고리즘]
+title: Big O 표기법
 date: '2021-06-19 00:00:00'
 author: 장희성
 tags: 알고리즘

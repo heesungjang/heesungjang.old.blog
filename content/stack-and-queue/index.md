@@ -1,10 +1,10 @@
 ---
 emoji: ✏️
-title: 스택(stack)& 큐(queue) [자료구조]
+title: 스택(stack)& 큐(queue)
 date: '2021-06-20 00:00:00'
 author: 장희성
 tags: 알고리즘 스택 큐 stack queue
-categories: 알고리즘
+categories: 자료구조
 ---
 
 ![](https://images.velog.io/images/heesungj7/post/3c68fa92-99f0-4de9-9d08-6b795583f212/1_r4Bfo3rrFprzFM2zbgzZXA.jpeg)

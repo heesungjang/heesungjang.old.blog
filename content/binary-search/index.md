@@ -1,6 +1,6 @@
 ---
 emoji: ✏️
-title: 이진탐색 [알고리즘]
+title: 이진탐색
 date: '2021-06-16 00:00:00'
 author: 장희성
 tags: 알고리즘
