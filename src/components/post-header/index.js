@@ -16,11 +16,10 @@ function PostHeader({ post, viewCount }) {
         </div>
       </div>
 
-        <h1 className="title">{post.title}</h1>
-        <div className="info">
-          posted by <strong>{post.author}</strong> · {post.date}
-          {/* {viewCount && ` · ${viewCount} views`} */}
-        </div>
+      <h1 className="title">{post.title}</h1>
+      <div className="info">
+        posted by <strong>{post.author}</strong> · {post.date}
+        {/* {viewCount && ` · ${viewCount} views`} */}
       </div>
     </header>
   );
