@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://heesungjang.github.io/sitemap/sitemap-index.xml
+Host: https://heesungjang.github.io
