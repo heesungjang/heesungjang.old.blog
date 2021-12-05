@@ -2177,9 +2177,9 @@
   integrity sha512-KB0sixD67CeecHC33MYn+eYARkqTheIRNuu97y2XMjR7Wu3XibO1vaY6VBV6O/a89SPI81cEUIYT87UqUWlZNw==
 
 "@types/node@^14.14.10":
-  version "14.17.34"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.17.34.tgz#fe4b38b3f07617c0fa31ae923fca9249641038f0"
-  integrity sha512-USUftMYpmuMzeWobskoPfzDi+vkpe0dvcOBRNOscFrGxVp4jomnRxWuVohgqBow2xyIPC0S3gjxV/5079jhmDg==
+  version "14.18.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.18.0.tgz#98df2397f6936bfbff4f089e40e06fa5dd88d32a"
+  integrity sha512-0GeIl2kmVMXEnx8tg1SlG6Gg8vkqirrW752KqolYo1PHevhhZN3bhJ67qHj+bQaINhX0Ra3TlWwRvMCd9iEfNQ==
 
 "@types/node@^8.5.7":
   version "8.10.66"
@@ -8518,9 +8518,9 @@ microevent.ts@~0.1.1:
   integrity sha512-jo1OfR4TaEwd5HOrt5+tAZ9mqT4jmpNAusXtyfNzqVm9uiSYFZlKM1wYL4oU7azZW/PxQW53wM0S6OR1JHNa2g==
 
 micromark-core-commonmark@^1.0.0, micromark-core-commonmark@^1.0.1:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/micromark-core-commonmark/-/micromark-core-commonmark-1.0.5.tgz#b49d31b2fa2d4a13d710681e0139cbadb71308c1"
-  integrity sha512-ZNtWumX94lpiyAu/lxvth6I5+XzxF+BLVUB7u60XzOBy4RojrbZqrx0mcRmbfqEMO6489vyvDfIQNv5hdulrPg==
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/micromark-core-commonmark/-/micromark-core-commonmark-1.0.6.tgz#edff4c72e5993d93724a3c206970f5a15b0585ad"
+  integrity sha512-K+PkJTxqjFfSNkfAhp4GB+cZPfQd6dxtTXnf+RjZOV7T4EEXnvgzOcnp+eSTmpGk9d1S9sL6/lqrgSNn/s0HZA==
   dependencies:
     decode-named-character-reference "^1.0.0"
     micromark-factory-destination "^1.0.0"
@@ -8821,9 +8821,9 @@ micromark-util-subtokenize@^1.0.0:
     uvu "^0.5.0"
 
 micromark-util-symbol@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/micromark-util-symbol/-/micromark-util-symbol-1.0.0.tgz#91cdbcc9b2a827c0129a177d36241bcd3ccaa34d"
-  integrity sha512-NZA01jHRNCt4KlOROn8/bGi6vvpEmlXld7EHcRH+aYWUfL3Wc8JLUNNlqUMKa0hhz6GrpUWsHtzPmKof57v0gQ==
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/micromark-util-symbol/-/micromark-util-symbol-1.0.1.tgz#b90344db62042ce454f351cf0bebcc0a6da4920e"
+  integrity sha512-oKDEMK2u5qqAptasDAwWDXq0tG9AssVwAx3E9bBF3t/shRIGsWIRG+cGafs2p/SnDSOecnt6hZPCE2o6lHfFmQ==
 
 micromark-util-types@^1.0.0, micromark-util-types@^1.0.1:
   version "1.0.2"
@@ -8839,9 +8839,9 @@ micromark@^2.11.3, micromark@~2.11.0, micromark@~2.11.3:
     parse-entities "^2.0.0"
 
 micromark@^3.0.0:
-  version "3.0.9"
-  resolved "https://registry.yarnpkg.com/micromark/-/micromark-3.0.9.tgz#2ac001ffd126342fcf5f4ec2f944aa08206dd8d5"
-  integrity sha512-aWPjuXAqiFab4+oKLjH1vSNQm8S9GMnnf5sFNLrQaIggGYMBcQ9CS0Tt7+BJH6hbyv783zk3vgDhaORl3K33IQ==
+  version "3.0.10"
+  resolved "https://registry.yarnpkg.com/micromark/-/micromark-3.0.10.tgz#1eac156f0399d42736458a14b0ca2d86190b457c"
+  integrity sha512-ryTDy6UUunOXy2HPjelppgJ2sNfcPz1pLlMdA6Rz9jPzhLikWXv/irpWV/I2jd68Uhmny7hHxAlAhk4+vWggpg==
   dependencies:
     "@types/debug" "^4.0.0"
     debug "^4.0.0"
@@ -10216,9 +10216,9 @@ prettier@2.2.1:
   integrity sha512-PqyhM2yCjg/oKkFPtTGUojv7gnZAoG80ttl45O6x2Ug/rMJw4wcc9k6aaf2hibP7BGVCCM33gZoGjyvt9mm16Q==
 
 prettier@^2.3.2:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.5.0.tgz#a6370e2d4594e093270419d9cc47f7670488f893"
-  integrity sha512-FM/zAKgWTxj40rH03VxzIPdXmj39SwSjwG0heUcNFwI+EMZJnY93yAiKXM3dObIKAM5TA88werc8T/EwhB45eg==
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.5.1.tgz#fff75fa9d519c54cf0fce328c1017d94546bc56a"
+  integrity sha512-vBZcPRUR5MZJwoyi3ZoyQlc1rXeEck8KgeC9AwwOn+exuxLxq5toTRDTSaVrXHxelDMHy9zlicw8u66yxoSUFg==
 
 pretty-bytes@^5.1.0, pretty-bytes@^5.4.1:
   version "5.6.0"
